@@ -3,6 +3,6 @@
 @section('title', 'HDC Events')
 
 @section('content')
-<h1>Teste de diretivas com content</h1>
+<h1>Teste</h1>
 
 @endsection
